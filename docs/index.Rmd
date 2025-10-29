@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## some more work
 
-Assessment stuff
+Assessment stuff :)
